@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "name": "Dummy",
+        "description": "A dummy entity for testing purposes."
+    },
+    "components": {
+        "stats": {
+            "health": 100,
+            "max_health": 100
+        }
+    }
+}
